@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_repo",
+  "version": "1.0.0",
+  "description": "test file",
+  "main": "http practice.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newb212/nodejs_repo.git"
+  },
+  "author": "newb212",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newb212/nodejs_repo/issues"
+  },
+  "homepage": "https://github.com/newb212/nodejs_repo#readme"
+}
